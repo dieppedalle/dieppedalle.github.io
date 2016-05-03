@@ -1,2 +1,2 @@
 # dieppedalle.github.io
-Welcome to My Website! It currently redirects to my iTunes page.
+Welcome to my website! It currently redirects to my iTunes page.
